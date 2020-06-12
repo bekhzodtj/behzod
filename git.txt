@@ -1,1 +1,2 @@
 Our frist git class
+Second day with Git
